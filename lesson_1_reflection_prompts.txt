@@ -1,0 +1,54 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Fill in your answer here
+	Por que estaba mal escrita, aunque al principio me parecia verlo igual hasta que compare ambas versiones 
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+
+    Fill in your answer here
+	Por medio de un boton que guarde el historial por mas tiempo y que haga copias de las versiones anteriores y vaya mostrando por medio de 
+	carpetas la fecha de cada una
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Fill in your answer here
+	Que al hacerlo manual puede ser demasiado largo aun cuando sea un solo cambio en la linea, con git es ms corto el compromiso ya que decides que guardar
+	como ventaa es que puedes ver los cambios hechos y guiarte si deseas cambiar algo
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Fill in your answer here
+	Para tener una copia de la ultima modificación hecha
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here
+	git log Te muestra el id de cada cambio, fecha de modificación y a que horas se hizo y quien hizo dicha modificación y git diff
+	por medio de colores te muestra que lineas fueron eliminadas y cuantas fueron eliminadas
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here
+	gracias al comando check puedo regresar a las versiones anteriores por lo que si deseo hacer algún cambio podre hacerlo sin necesidad de que pueda no recuperarlo
+	
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
+	Para crear proyectos de la universidad
+	
+	
+	
+	
+	¿En qué se diferencia el área de preparación del directorio de trabajo y del repositorio? ¿Qué valor crees que ofrece?
+	en que en el primero puedes ver como se inicializan los archivos y en el otro puedes ir agragando mas archivos
+	En que una vez que realizas cambios en el repositorio se pueden ir agregando mas y en el directorio no ya que se cambia todo el trabajo
+	
+	
